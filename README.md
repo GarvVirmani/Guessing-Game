@@ -13,11 +13,19 @@ Welcome to the Guessing Game! Test your luck and try to guess the correct number
 
 ![image](https://github.com/GarvVirmani/Guessing-Game/assets/131982472/fcd1aff7-5a06-4698-8fd4-43feb3ed7231)
 
+------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/GarvVirmani/Guessing-Game/assets/131982472/776d4947-535b-4df9-953d-7c3f0f4a90bb)
+
+------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/GarvVirmani/Guessing-Game/assets/131982472/c5dcb38d-ba13-48d5-a27f-fe6bed0bad5b)
 
+------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/GarvVirmani/Guessing-Game/assets/131982472/fbcd0d38-2950-4ffe-8b44-7658f3a70f69)
+
+------------------------------------------------------------------------------------------------------------------
 
 
 ## Getting Started
